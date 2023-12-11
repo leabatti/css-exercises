@@ -1,0 +1,26 @@
+#bc-color {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.title1, {
+    font-size: 18px;
+}
+
+.title2 {
+    color: blue;
+    background-color: white;
+    font-size: 36px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.title3 {
+    font-size: 24px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.title4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
