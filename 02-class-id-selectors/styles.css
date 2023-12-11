@@ -1,5 +1,8 @@
 #bc-color {
     background-color: pink;
+}
+
+.font-fam {
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
@@ -11,12 +14,10 @@
     color: blue;
     background-color: white;
     font-size: 36px;
-    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .title3 {
     font-size: 24px;
-    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .title4 {
