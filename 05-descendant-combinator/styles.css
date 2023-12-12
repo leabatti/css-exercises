@@ -1,0 +1,10 @@
+ p {
+    font-family: Times New Roman, serif;
+ }
+ 
+.descendant {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+ }
